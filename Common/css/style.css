@@ -12,21 +12,29 @@ body {
 
 .resume {
     max-width: 1500px;
-    margin: 50px;
+    margin: auto;
     display: flex;
+    
 }
 
 
 
 .resume_left {
+
     width: 400px;
     padding-right: 50px;
     float: left;
+    margin-left: 50px;
+    margin-top: 50px;
+    margin-bottom: 50px;
 }
 
 .resume_right {
     width: auto;
     float: right;
+    margin-right: 50px;
+    margin-top: 50px;
+    margin-bottom: 50px;
 }
 
 .resume_photo img {
